@@ -2,7 +2,16 @@
 ## My name is Giuliano Richards and my nickname is Giu!
 
 
-- 🔭 Atualmente estou trabalhando com análise de dados 
+- 🔭 Atualmente estou trabalhando com análise de dados com Python e Power BI.
+- 🌐 Falo sobre IA para empresas e negócios.
+- ❤️ Apaixonado por códigos.
+
+## Educação
+- Mestre em Educação tecnológica pelo CEFET-MG - Tema da pesquisa: INTELIGÊNCIA ARTIFICIAL APLICADA À PRÁTICA DOCENTE NA
+EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+- MBA em Gestão de Projetos
+- MBA em Análise e desenvolvimento de sistemas
+- Bacharel em Sistemas de Informação
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
