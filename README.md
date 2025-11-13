@@ -2,8 +2,9 @@
 ## My name is Giuliano Richards and my nickname is Giu!
 
 
-- 🔭 Atualmente estou trabalhando como professor nos cursos de tecnologia na Faculdade UNA e atuando também como coordenador de curso.
-- e também sou desenvolvedor e trabalho como cientista de dados e com análise de dados com Python e Power BI.
+- 🔭 Atualmente estou trabalhando como professor nos cursos de tecnologia na Faculdade UNA.
+- Atuo também como analista de qualidade do ensino EAD e digital do Grupo Ânima,
+- Sou desenvolvedor e atuo como cientista de dados e com análise de dados com Python e Power BI.
 - 🌐 Falo sobre IA para empresas e negócios.
 - ❤️ Apaixonado por códigos.
 
